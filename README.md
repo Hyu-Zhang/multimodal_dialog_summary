@@ -24,8 +24,8 @@ Summary of papers and projects for visual dialog, video dialog, and multimodal d
 
 ### Year 2020
 * ****`TCSVT 2020`**** Video Dialog via Multi-Grained Convolutional Self-Attention Context Multi-Modal Networks [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8920126)
-* ****`ACL 2020`**** Video-Grounded Dialogues with Pretrained Generation Language Models [link](https://aclanthology.org/2020.acl-main.518.pdf)
-* ****`EMNLP 2020`**** BiST: Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues [link](https://aclanthology.org/2020.emnlp-main.145.pdf)
+* ****`NAACL 2020`**** Video-Grounded Dialogues with Pretrained Generation Language Models [link](https://aclanthology.org/2020.acl-main.518.pdf)
+* ****`EMNLP 2020`**** BiST: Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues [link](https://aclanthology.org/2020.emnlp-main.145.pdf) [code](https://github.com/salesforce/BiST)
 
 ### Year 2019
 * ****`ACL 2019`**** Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems [link](https://aclanthology.org/P19-1564.pdf) [code](https://github.com/henryhungle/MTN)
