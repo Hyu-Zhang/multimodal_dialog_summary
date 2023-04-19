@@ -32,3 +32,22 @@ Summary of papers and projects for visual dialog, video dialog, and multimodal d
 * ****`ICASSP 2019`**** End-to-end Audio Visual Scene-aware Dialog Using Multimodal Attention-based Video Features [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682583)
 
 ## Multimodal Dialog
+### Year 2022
+* ****`ICASSP 2022`**** A Non-Hierarchical Attention Network with Modality Dropout for Textual Response Generation in Multimodal Dialogue Systems [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746613)
+* ****`ArXiv 2022`**** Multimodal Dialog Systems with Dual Knowledge-enhanced Generative Pretrained Language Model [link](https://arxiv.org/pdf/2207.07934)
+
+### Year 2021
+* ****`SIGIR 2021`**** MMConv: An Environment for Multimodal Conversational Search across Multiple Domains [link](https://dl.acm.org/doi/pdf/10.1145/3404835.3462970)
+* ****`ACMMM 2021`**** Multimodal Dialog System: Relational Graph-based Context-aware Question Understanding [link](https://dl.acm.org/doi/pdf/10.1145/3474085.3475234)
+
+### Year 2020
+* ****`ACMMM 2020`**** Multimodal Dialogue Systems via Capturing Context-aware Dependencies of Semantic Elements [link](https://dl.acm.org/doi/pdf/10.1145/3394171.3413679)
+
+### Year 2019
+* ****`ACMMM 2019`**** Multimodal Dialog System: Generating Responses via Adaptive Decoders [link](https://dl.acm.org/doi/pdf/10.1145/3343031.3350923)
+* ****`SIGIR 2019`**** User Attention-guided Multimodal Dialog Systems [link](https://dl.acm.org/doi/pdf/10.1145/3331184.3331226)
+* ****`ACL 2019`**** Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System [link](https://aclanthology.org/P19-1540.pdf)
+
+### Year 2018
+* ****`ACMMM 2018`**** Knowledge-aware Multimodal Dialogue Systems [link](https://dl.acm.org/doi/pdf/10.1145/3240508.3240605)
+* ****`AAAI 2018`**** Towards Building Large Scale Multimodal Domain-Aware Conversation Systems [link](https://ojs.aaai.org/index.php/AAAI/article/view/11331)
