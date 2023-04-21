@@ -5,6 +5,19 @@ Summary of papers and projects for visual dialog, video dialog, and multimodal d
 ### Year 2023
 * ****`TCSVT 2023`**** Heterogeneous Knowledge Network for Visual Dialog [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9893870)
 
+### Year 2022
+* ****`CVPR 2022`**** UTC: A Unified Transformer With Inter-Task Contrastive Learning for Visual Dialog [link](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_UTC_A_Unified_Transformer_With_Inter-Task_Contrastive_Learning_for_Visual_CVPR_2022_paper.pdf)
+* ****`ArXiv 2022`**** Modeling Coreference Relations in Visual Dialog [link](https://arxiv.org/pdf/2203.02986.pdf)
+* ****`ICASSP 2022`**** Improving Cross-Modal Understanding in Visual Dialog Via Contrastive Learning [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747769)
+* ****`Information Processing & Management 2022`**** HVLM: Exploring Human-Like Visual Cognition and Language-Memory Network for Visual Dialog [link](https://urlzs.com/tCStK)
+* ****`Pattern Recognition 2022`**** VD-PCR: Improving visual dialog with pronoun coreference resolution [link]()
+
+### Year 2019
+* ****`CVPR 2019`**** Recursive Visual Attention in Visual Dialog [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Niu_Recursive_Visual_Attention_in_Visual_Dialog_CVPR_2019_paper.pdf)
+
+### Year 2017
+* ****`CVPR 2017`**** Visual Dialog [link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Das_Visual_Dialog_CVPR_2017_paper.pdf)
+
 
 ## Video Dialog/ AVSD/ Video-grounded Dialog Generation
 ### Year 2022
